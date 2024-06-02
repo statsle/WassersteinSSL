@@ -79,6 +79,8 @@ We delve into the study of our proposed uniformity metric and baseline uniformit
 
 ## Large Means
 
+To analyze the impact of mean on the uniformity, we assume $\mathbf{X}\in \mathbb{R}^2$ follows a Gaussian distribution $\mathcal{N}(\mathbf{0}, \mathbf{I}_2)$, let $ \mathbf{Y} = \mathbf{X} + k\cdot \mathbf{1}$ such that $ \mathbf{Y} \sim \mathcal{N}(k \cdot\mathbf{1}, \mathbf{I}_2)$, where $\mathbf{1} \in \mathbb{R}^k$ represents a vector of all ones. We vary $k$ from $0$ to $32$ and visualize the $\ell_2$-normalized $\mathbf{Y}$'s (by generating multiple independent copies).  It is clear that an excessively large means will cause representations to collapse to a single point, even if the covariance matrix is isotropic.
+
 <div>
 <p align="center">
 <img src='LargeMeans\largemean_collapse.png' align="center" width=800>
