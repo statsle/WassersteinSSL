@@ -82,7 +82,7 @@ We delve into the study of our proposed uniformity metric and baseline uniformit
 To investigate the influence of the mean on uniformity, we consider $\mathbf{X}\in \mathbb{R}^2$ following a Gaussian distribution $\mathcal{N}(\mathbf{0}, \mathbf{I}_2)$, where $\mathbf{Y} =  \mathbf{X} + k\cdot \mathbf{1}$, leading to $\mathbf{Y}  \sim  \mathcal{N}(k \cdot\mathbf{1}, \mathbf{I}_2)$ with $\mathbf{1} \in \mathbb{R}^k$ representing a vector of all ones. By varying $k$ from $0$ to $32$, we generate $\mathbf{Y}$ and draw figures by:
 
 ``` python
-python PlotMean2D.py
+python ./LargeMeans/PlotMean2D.py
 ```
 
 as visualized as: 
