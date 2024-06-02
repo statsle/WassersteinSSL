@@ -13,8 +13,7 @@ To illustrate the asymptotic equivalence between a uniform spherical distributio
 python ./DistributionApproximation/Density1DPlot.py or python ./DistributionApproximation/Density2DPlot.py
 ```
 
-
-1-d visualization
+With estimated distributions, we visualize $Y_i$ and $\hat{Y}_i$ across different dimensions $m$
 <div>
 <p align="center">
 <img src='DistributionApproximation\MergedDistribution-1D.png' align="center" width=800>
