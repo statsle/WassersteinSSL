@@ -45,7 +45,7 @@ We empirically compared our proposed uniformity metric $-\mathcal{W}_2$ and the 
 
 ### On Dimensional Collapse Degrees
 
-To design we sample data vectors from an isotropic Gaussian distribution, normalize them to have $\ell_2$cnorms, and then zero out a proportion ($\eta$) of the coordinates
+To design we sample data vectors from an isotropic Gaussian distribution, normalize them to have $\ell_2$ norms, and then zero out a proportion ($\eta$) of the coordinates
 
 <div>
 <p align="center">
