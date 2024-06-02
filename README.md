@@ -6,10 +6,18 @@ This repository encompasses four components of code. Firstly, in the “Distribu
 
 
 ### Distribution Approximation
-
+1-d visualization
 <div>
 <p align="center">
 <img src='DistributionApproximation\MergedDistribution-1D.png' align="center" width=800>
+</p>
+</div>
+
+2-d visualization
+
+<div>
+<p align="center">
+<img src='DistributionApproximation\MergedDistribution-2D.png' align="center" width=800>
 </p>
 </div>
 
