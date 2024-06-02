@@ -35,6 +35,16 @@ We also analyze the joint binning densities and present 2D joint binning densiti
 
 ## Empirical Study
 
+### On Dimensional Collapse Degrees
+
+### On Sensitiveness of Dimensions
+
+### On Feature Baby Constraint
+
+### On Feature Cloning Constraint 
+
+### On Instance Cloning Constraint
+
 ## Large Means
 
 ## Code
