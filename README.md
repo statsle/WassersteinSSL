@@ -65,12 +65,12 @@ as visualized:
 
 ### On Sensitiveness of Dimensions
 
-We also analyze the sensitiveness of dimensions. We generate data vectors and draw figures by:
+We also analyze the sensitiveness of dimensions. We generate data points and draw figures by:
 
 ``` python
 python  ./EmpiricalStudy/Dimensions/AnalysisOnDimension.py   then  AnalysisOnDimension.ipynb
 ```
-The analyses can be found as follow:
+The analyses results can be found as follow:
 <div>
 <p align="center">
 <img src='EmpiricalStudy\Dimensions\SensitivityToDimensions.png' align="center" width=800>
@@ -78,6 +78,13 @@ The analyses can be found as follow:
 </div>
 
 ### On Feature Cloning Constraint 
+We generate data points and draw figures by:
+
+``` python
+python  ./EmpiricalStudy/FeatureCloningConstraint/AnalysisOnProperty4.py   then  AnalysisOnProperty4.ipynb
+```
+
+The analyses results can be found as follow:
 
 <div>
 <p align="center">
@@ -87,6 +94,14 @@ The analyses can be found as follow:
 
 ### On Feature Baby Constraint
 
+We generate data points and draw figures by:
+
+``` python
+python  ./EmpiricalStudy/FeatureBabyConstraint/AnalysisOnProperty5.py.py   then  AnalysisOnProperty5.ipynb
+```
+
+The analyses results can be found as follow:
+
 <div>
 <p align="center">
 <img src='EmpiricalStudy\FeatureBabyConstraint\AnalysisOnFBC.png' align="center" width=800>
@@ -94,6 +109,14 @@ The analyses can be found as follow:
 </div>
 
 ### On Instance Cloning Constraint
+
+We generate data points and draw figures by:
+
+``` python
+python  ./EmpiricalStudy/InstanceCloningConstraint/AnalysisOnProperty3.py   then  AnalysisOnProperty3.ipynb
+```
+
+The analyses results can be found as follow:
 
 <div>
 <p align="center">
