@@ -143,6 +143,12 @@ as visualized:
 It is clear that an excessively large means will cause representations to collapse to a single point, even if the covariance matrix is isotropic.
 ## Code
 
+### BYOL
+
+### BarlowTwins
+
+### MoCo v2
+
 | Methods | Proj. | Pred. | CIFAR-10 Acc@1↑ | CIFAR-10 Acc@5↑ | CIFAR-10 $\mathcal{W}_{2}$↓ | CIFAR-10 $\mathcal{L_U}$↓ | CIFAR-10 $\mathcal{A}$↓ | CIFAR-100 Acc@1↑ | CIFAR-100 Acc@5↑ | CIFAR-100 $\mathcal{W}_{2}$↓ | CIFAR-100 $\mathcal{L_U}$↓ | CIFAR-100 $\mathcal{A}$↓ |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | MoCo v2 | 256 | ✘ | 90.65 | 99.81 | 1.06 | -3.75 | 0.51 | 60.27 | 86.29 | 1.07 | -3.60 | 0.46 |
