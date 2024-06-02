@@ -143,6 +143,8 @@ as visualized:
 It is clear that an excessively large means will cause representations to collapse to a single point, even if the covariance matrix is isotropic.
 ## Code
 
+In this repository, we integrate the our proposed uniformity loss $\mathcal{W}_{2}$ as an additional loss term in the existing self-supervised learning methods such as BYOL, BarlowTwins, and MoCov2.
+
 ### BYOL
 
 ### BarlowTwins
