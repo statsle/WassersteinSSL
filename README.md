@@ -71,11 +71,17 @@ We also analyze the joint binning densities and present 2D joint binning densiti
 
 <div>
 <p align="center">
-<img src='EmpiricalStudy\InstanceCloningConstraint\AnalysisOnICC.png' align="center" width=800>
+<img src='EmpiricalStudy\InstanceCloningConstraint\AnalysisOnICC.png' align="center" width=400>
 </p>
 </div>
 
 ## Large Means
+
+<div>
+<p align="center">
+<img src='LargeMeans\largemean_collapse.png' align="center" width=400>
+</p>
+</div>
 
 ## Code
 
