@@ -6,6 +6,14 @@ This repository encompasses four components of code. Firstly, in the “Distribu
 
 
 ### Distribution Approximation
+
+To demonstrate 
+
+``` python
+python Density1DPlot.py or python Density2DPlot.py
+```
+
+
 1-d visualization
 <div>
 <p align="center">
