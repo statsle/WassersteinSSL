@@ -7,7 +7,7 @@ This repository encompasses four components of code. Firstly, in the “Distribu
 
 ### Distribution Approximation
 
-To illustrate the asymptotic equivalence between a uniform spherical distribution ($Y_i$ is the $i$-th coordinate of the uniform spherical distribution) and an isotropic Gaussian distribution ($\hat{Y}_i \sim \mathcal{N}(0, 1/m) $), we first random sample datapoints and estimate their distribution by:
+To illustrate the asymptotic equivalence between a uniform spherical distribution (where $Y_i$ represents the $i$-th coordinate) and an isotropic Gaussian distribution ($\hat{Y}_i \sim \mathcal{N}(0, 1/m) $), we begin by randomly sampling data points and estimating their distribution using:
 
 ``` python
 python ./DistributionApproximation/Density1DPlot.py or python ./DistributionApproximation/Density2DPlot.py
