@@ -45,11 +45,35 @@ We also analyze the joint binning densities and present 2D joint binning densiti
 
 ### On Sensitiveness of Dimensions
 
-### On Feature Baby Constraint
+<div>
+<p align="center">
+<img src='EmpiricalStudy\Dimensions\SensitivityToDimensions.png' align="center" width=800>
+</p>
+</div>
 
 ### On Feature Cloning Constraint 
 
+<div>
+<p align="center">
+<img src='EmpiricalStudy\FeatureCloningConstraint\AnalysisOnFCC.png' align="center" width=800>
+</p>
+</div>
+
+### On Feature Baby Constraint
+
+<div>
+<p align="center">
+<img src='EmpiricalStudy\FeatureBabyConstraint\AnalysisOnFBC.png' align="center" width=800>
+</p>
+</div>
+
 ### On Instance Cloning Constraint
+
+<div>
+<p align="center">
+<img src='EmpiricalStudy\InstanceCloningConstraint\AnalysisOnICC.png' align="center" width=800>
+</p>
+</div>
 
 ## Large Means
 
