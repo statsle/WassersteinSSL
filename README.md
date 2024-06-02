@@ -65,6 +65,12 @@ as visualized:
 
 ### On Sensitiveness of Dimensions
 
+We also analyze the sensitiveness of dimensions. We generate data vectors and draw figures by:
+
+``` python
+python  ./EmpiricalStudy/Dimensions/AnalysisOnDimension.py   then  AnalysisOnDimension.ipynb
+```
+The analyses can be found as follow:
 <div>
 <p align="center">
 <img src='EmpiricalStudy\Dimensions\SensitivityToDimensions.png' align="center" width=800>
