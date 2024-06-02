@@ -70,7 +70,7 @@ We also analyze the joint binning densities and present 2D joint binning densiti
 ### On Instance Cloning Constraint
 
 <div>
-<p align="center">
+<p align="left">
 <img src='EmpiricalStudy\InstanceCloningConstraint\AnalysisOnICC.png' align="center" width=400>
 </p>
 </div>
