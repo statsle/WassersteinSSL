@@ -45,7 +45,17 @@ We empirically compared our proposed uniformity metric $-\mathcal{W}_2$ and the 
 
 ### On Dimensional Collapse Degrees
 
-To design we sample data vectors from an isotropic Gaussian distribution, normalize them to have $\ell_2$ norms, and then zero out a proportion ($\eta$) of the coordinates
+To generate data reflecting varying degrees of dimensional collapse,  we sample data vectors from an isotropic Gaussian distribution, normalize them to have $\ell_2$ norms, and then zero out a proportion ($\eta$) of the coordinates by running the following code:
+
+``` python
+python ./EmpiricalStudy/DimensionalCollapseDegrees/AnalysisOnCollapseLevel.py 
+```
+Then we draw figures:
+
+``` python
+AnalysisOnCollapseLevel.ipynb
+```
+as visualized:
 
 <div>
 <p align="center">
@@ -93,7 +103,7 @@ To investigate the influence of the mean on uniformity, we consider $\mathbf{X}\
 python ./LargeMeans/PlotMean2D.py
 ```
 
-as visualized as: 
+as visualized: 
 
 <div>
 <p align="center">
