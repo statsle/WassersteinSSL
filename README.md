@@ -97,7 +97,7 @@ The analyses results can be found as follow:
 We generate data points and draw figures by:
 
 ``` python
-python  ./EmpiricalStudy/FeatureBabyConstraint/AnalysisOnProperty5.py.py   then  AnalysisOnProperty5.ipynb
+python  ./EmpiricalStudy/FeatureBabyConstraint/AnalysisOnProperty5.py   then  AnalysisOnProperty5.ipynb
 ```
 
 The analyses results can be found as follow:
