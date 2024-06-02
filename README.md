@@ -97,10 +97,16 @@ It is clear that an excessively large means will cause representations to collap
 ## Code
 
 
-## Reference
-
-Fang, X., Li, J., Sun, Q., and Wang, B., Rethinking the Uniformity Metric in Self-Supervised Learning. [Paper](https://arxiv.org/abs/2403.00642)
-
+## Citation
+If our [paper](https://arxiv.org/abs/2403.00642) assists your research, feel free to give us a star or cite us using:
+```
+@inproceedings{Fang2024RethinkingTU,
+      title={Rethinking the Uniformity Metric in Self-Supervised Learning.}, 
+      author={Xianghong Fang and Jian Li and Qiang Sun and Benyou Wang},
+      booktitle={ICLR},
+      year={2024}
+}
+```
 
 
 
