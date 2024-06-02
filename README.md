@@ -40,7 +40,8 @@ We also analyze the joint binning densities and present 2D joint binning densiti
 
 ## Empirical Study
 
-We delve into the study of our proposed uniformity metric and baseline uniformity metric from five perspectives:
+
+We empirically compared our proposed uniformity metric $-\mathcal{W}_2$ and the baseline uniformity metric $-\mathcal{L_U}$ from five different perspectives.
 
 ### On Dimensional Collapse Degrees
 
