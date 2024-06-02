@@ -25,7 +25,7 @@ Using the estimated distributions, we visualize $Y_i$ and $\hat{Y}_i$ across dif
 </p>
 </div>
 
-2-d visualization
+We also analyze the joint binning densities and present 2D joint binning densities of  $(Y_i, Y_j)$ ($i \neq j$) and  $(\hat{Y}_i, \hat{Y}_j)$ ($i \neq j$). Even if $m$ is relatively small (i.e., 32), the densities of the two distributions are close.
 
 <div>
 <p align="center">
