@@ -7,9 +7,7 @@ This repository encompasses four components of code. Firstly, in the “Distribu
 
 ### Distribution Approximation
 
-To demonstrate an asymptotic equivalence between a uniform spherical distribution ($Y_i$ be the $i$-th coordinate of the uniform spherical distribution) and an isotropic Gaussian distribution ($\hat{Y}_i \sim \mathcal{N}(0, 1/m)$)
-
-
+To demonstrate an asymptotic equivalence between a uniform spherical distribution ($Y_i$ be the $i$-th coordinate of the uniform spherical distribution) and an isotropic Gaussian distribution ($\hat{Y}_i$)
 
 We estimate their distribution by:
 ``` python
