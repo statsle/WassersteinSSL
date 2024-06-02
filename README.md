@@ -37,6 +37,12 @@ We also analyze the joint binning densities and present 2D joint binning densiti
 
 ### On Dimensional Collapse Degrees
 
+<div>
+<p align="center">
+<img src='EmpiricalStudy\DimensionalCollapseDegrees\SensitivityToCollapseLevel.png' align="center" width=800>
+</p>
+</div>
+
 ### On Sensitiveness of Dimensions
 
 ### On Feature Baby Constraint
