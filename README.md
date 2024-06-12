@@ -146,6 +146,15 @@ It is clear that an excessively large means will cause representations to collap
 In this repository, we integrate the our proposed uniformity loss $\mathcal{W}_{2}$ as an additional loss term in the existing self-supervised learning methods such as BYOL, BarlowTwins, and MoCo v2.
 
 ### BYOL
+Train and evaluate on either CIFAR-10 or CIFAR-100 dataset without incorporating our proposed uniformity loss $\mathcal{W}_{2}$:
+``` python
+bash ./code/BYOL/run_vanilla_byol.sh
+```
+
+Train and evaluate on either CIFAR-10 or CIFAR-100 dataset without incorporating our proposed uniformity loss $\mathcal{W}_{2}$:
+``` python
+bash ./code/BYOL/run_byol+w2.sh
+```
 
 ### BarlowTwins
 
