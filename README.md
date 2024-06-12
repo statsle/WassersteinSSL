@@ -157,8 +157,26 @@ bash ./code/BYOL/run_byol+w2.sh
 ```
 
 ### BarlowTwins
+Train and evaluate on either CIFAR-10 or CIFAR-100 dataset without incorporating our proposed uniformity loss $\mathcal{W}_{2}$:
+``` python
+bash ./code/BarlowTwins/run_vanilla_barlowtwins.sh
+```
+
+Train and evaluate on either CIFAR-10 or CIFAR-100 dataset without incorporating our proposed uniformity loss $\mathcal{W}_{2}$:
+``` python
+bash ./code/BarlowTwins/run_barlowtwins+w2.sh
+```
 
 ### MoCo v2
+Train and evaluate on either CIFAR-10 or CIFAR-100 dataset without incorporating our proposed uniformity loss $\mathcal{W}_{2}$:
+``` python
+bash ./code/MoCov2/run_vanilla_moco.sh
+```
+
+Train and evaluate on either CIFAR-10 or CIFAR-100 dataset without incorporating our proposed uniformity loss $\mathcal{W}_{2}$:
+``` python
+bash ./code/MoCov2/run_moco+w2.sh
+```
 
 | Methods | Proj. | Pred. | CIFAR-10 Acc@1↑ | CIFAR-10 Acc@5↑ | CIFAR-10 $\mathcal{W}_{2}$↓ | CIFAR-10 $\mathcal{L_U}$↓ | CIFAR-10 $\mathcal{A}$↓ | CIFAR-100 Acc@1↑ | CIFAR-100 Acc@5↑ | CIFAR-100 $\mathcal{W}_{2}$↓ | CIFAR-100 $\mathcal{L_U}$↓ | CIFAR-100 $\mathcal{A}$↓ |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
